@@ -19,6 +19,21 @@ While Ops is meant to include traditionally everyone from the System side, like:
 - Database Admins
 
 
+# What DevOps is not ?
+While talking about DevOps, it is necessary to mitigate some miths about DevOps, like:
+- DevOps is a new name for Operations Team
+- It is just a fancy job title
+- It is a new tool (or set of tools)
+
+# What is DevOps ?
+DevOps is actually a lifestyle. While companies from IBM to Microsoft talk about DevOps, there is no single agreed apon definition. Still, we can talk about 5 levels of DevOps:
+- Values
+- Principles
+- Methods
+- Practices
+- Tools
+
+
 # Why it matters
 It has been shown that following DevOps practices fastens the pase of software development, changes and releases.
 The Puppet Lab's State of DevOps survey shows that teams following DevOps Practices
@@ -36,18 +51,6 @@ Well DevOps offer many social and psychological benefits as well:-
 - It reduces stress on the job
 
 
-# What DevOps is not ?
-While talking about DevOps, it is necessary to mitigate some miths about DevOps, like:
-- DevOps is a new name for Operations Team
-- It is just a fancy job title
-- It is a new tool (or set of tools)
 
-# What is DevOps ?
-DevOps is actually a lifestyle. While companies from IBM to Microsoft talk about DevOps, there is no single agreed apon definition. Still, we can talk about 5 levels of DevOps:
-- Values
-- Principles
-- Methods
-- Practices
-- Tools
 
 
