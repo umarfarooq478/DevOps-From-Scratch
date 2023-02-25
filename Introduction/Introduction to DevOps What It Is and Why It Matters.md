@@ -6,3 +6,16 @@ If we look at the history of software industry, development and operations team 
 Developers were responsible for writing code, while operations teams were responsible for deploying and maintaining that code in production environments. This approach often led to lengthy development cycles, frequent errors and bugs, and a lack of accountability for issues that arose during the deployment process.
 
 DevOps seeks to overcome these challenges by bringing development and operations teams together into a single, collaborative team.
+
+# One Key Note
+While the word "DevOps" is a combination of Dev and Ops , it doesn't mean that it leaves out other teams.
+Dev is usually meant to include everyone from Code side, like:
+- Developers
+- Front End Designers
+- QA Engineers
+
+While Ops is meant to include traditionally every from the System side, like:
+- System Admins
+- Network Admins
+- Database Admins
+
