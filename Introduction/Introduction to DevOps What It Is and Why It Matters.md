@@ -1,4 +1,5 @@
 # Introduction to DevOps: What It Is and Why It Matters
+![Image](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wRnPXXB9BFP_lylUIoZRpw.png)
 
 DevOps is a methodology that brings two teams together : Development and Operations. Basically it focuses on Collaboration, Communication and Integration between the two teams. It enables faster and more reliable software releases, while also improving the overall quality and efficiency of the software development process.
 
